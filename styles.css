@@ -64,3 +64,8 @@ input[type="checkbox"]:focus {
 .standard-button:hover {
   background-color: var(--dark-brown);
 }
+
+.input-range::-webkit-slider-thumb,
+footer {
+  background-color: #B29463;
+}
